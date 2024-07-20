@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-20T10:57:02-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hola Jekyll Labs!</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2024/07/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-07-20T10:19:46-03:00</published><updated>2024-07-20T10:19:46-03:00</updated><id>http://localhost:4000/jekyll/update/2024/07/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/07/20/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-20T11:42:14-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Geek DevOps Labs</title><subtitle>Geek Devops: Level up your DevSecOps skills with real-world, interactive labs. Master automated security testing, infrastructure as code, cloud security, and more. Join today and unleash your inner DevSecOps ninja!</subtitle><entry><title type="html">Level Up Your DevSecOps Game with Geek Devops!</title><link href="http://localhost:4000/devops/2024/07/20/GeekDevopsWelcome.html" rel="alternate" type="text/html" title="Level Up Your DevSecOps Game with Geek Devops!" /><published>2024-07-20T10:19:46-03:00</published><updated>2024-07-20T10:19:46-03:00</updated><id>http://localhost:4000/devops/2024/07/20/GeekDevopsWelcome</id><content type="html" xml:base="http://localhost:4000/devops/2024/07/20/GeekDevopsWelcome.html"><![CDATA[<h2 id="level-up-your-devsecops-game-with-geek-devops">Level Up Your DevSecOps Game with Geek Devops!</h2>
+
+<p><strong>Tired of theory? Craving hands-on DevSecOps experience?</strong></p>
+
+<p>Geek Devops is your playground for <strong>real-world, interactive DevSecOps labs</strong>. We offer a curated collection of <strong>practical exercises and challenges</strong> designed to boost your skills in:</p>
+
+<ul>
+  <li><strong>Automated Security Testing:</strong> Learn to seamlessly integrate security testing into your CI/CD pipelines.</li>
+  <li><strong>Infrastructure as Code:</strong> Master the art of building secure and scalable infrastructure using tools like Terraform and Ansible.</li>
+  <li><strong>Cloud Security:</strong> Dive deep into best practices for securing your applications and data in the cloud.</li>
+  <li><strong>Container Security:</strong> Get hands-on with securing Docker containers and Kubernetes clusters.</li>
+  <li><strong>And much more!</strong></li>
+</ul>
+
+<p><strong>Geek Devops is perfect for:</strong></p>
+
+<ul>
+  <li><strong>DevOps professionals</strong> looking to level up their security knowledge.</li>
+  <li><strong>Security engineers</strong> wanting to bridge the gap between security and development.</li>
+  <li><strong>Students and aspiring professionals</strong> eager to gain practical DevSecOps experience.</li>
+</ul>
+
+<p><strong>Get ready to:</strong></p>
+
+<ul>
+  <li><strong>Experiment with real-world tools and technologies.</strong></li>
+  <li><strong>Build secure infrastructure and applications.</strong></li>
+  <li><strong>Solve challenging security scenarios.</strong></li>
+  <li><strong>Level up your career in DevSecOps.</strong></li>
+</ul>
+
+<p><strong>Join Geek Devops today and unleash your inner DevSecOps ninja!</strong></p>]]></content><author><name></name></author><category term="DevOps" /><summary type="html"><![CDATA[Level Up Your DevSecOps Game with Geek Devops!]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2024/07/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-07-20T10:19:46-03:00</published><updated>2024-07-20T10:19:46-03:00</updated><id>http://localhost:4000/jekyll/update/2024/07/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/07/20/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
