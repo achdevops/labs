@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-## About Geek Devops: Where Passion for Security Meets Practical Experience
-
 Geek Devops was born from a shared passion for building secure and reliable systems, and a deep frustration with the lack of hands-on, practical learning resources in the DevSecOps space. We're a team of experienced engineers, security experts, and educators who are dedicated to bridging the gap between theory and practice. 
 
 **We believe that everyone should have access to high-quality, engaging DevSecOps training, regardless of their background or experience level.** That's why we created Geek Devops - a platform where you can:

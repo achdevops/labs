@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Geek DevOps Labs
+title: Geek Home
 email: ach@geekdevops.me
 description: >- # this means to ignore newlines until "baseurl:"
   Geek Devops: Level up your DevSecOps skills with real-world, interactive labs. Master automated security testing, infrastructure as code, cloud security, and more. Join today and unleash your inner DevSecOps ninja!
@@ -32,6 +32,10 @@ github_username:  achdevops
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about.md
+  - portfolio.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
