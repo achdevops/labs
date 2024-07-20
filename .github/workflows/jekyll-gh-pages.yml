@@ -28,6 +28,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: shell commands
+        run: |
+          ls -la
+          ls -la docs
+          ls -la docs/_site
+  
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
