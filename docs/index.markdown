@@ -4,4 +4,3 @@
 
 layout: home
 ---
-# title: "Welcome to GeekDevOps Labs"
