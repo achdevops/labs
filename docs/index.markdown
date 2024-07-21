@@ -4,4 +4,4 @@
 
 layout: home
 ---
-- title: "Welcome to GeekDevOps Labs"
+# title: "Welcome to GeekDevOps Labs"
